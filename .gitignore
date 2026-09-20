@@ -1,0 +1,5 @@
+__pycache__/
+tests/connection_test/__pycache__/
+tests/game_test_1/__pycache__/
+tests/game_test_2/__pycache__/
+tests/game_test_3/__pycache__/
