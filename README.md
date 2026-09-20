@@ -23,10 +23,31 @@ Larping is pretending to be someone you're not; in this case, we're pretending t
 
 ## 🎮 Gameplay Showcase
 
-![Video](insert_video_link_here)
-![Screenshot 1](insert_screenshot_here)
-![Screenshot 2](insert_screenshot_here)
-![Screenshot 3](insert_screenshot_here)
+[![Video](https://raw.githubusercontent.com/nillinav/TerminalMafiaRoot36/main/solution_requirements/1.jpg)](https://raw.githubusercontent.com/nillinav/TerminalMafiaRoot36/main/solution_requirements/video.mov)
+<p align="center">
+   <img src="solution_requirements/1.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/2.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/3.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/4.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/5.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/6.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/7.jpg">
+</p>
+<p align="center">
+   <img src="solution_requirements/8.jpg">
+</p>
 
 ## ℹ️ Requirements
 - Python 3.0 or newer installed on your system
