@@ -344,7 +344,7 @@ class MafiaClientUI:
             
         console.print(table)
         
-        if self.current_phase == "NIGHT":
+        if self.current_phase == "NIGHT" and self.my_role != "Villager":
             action = "eliminate" if self.my_role == "Mafia" else "protect" if self.my_role == "Doctor" else "investigate"
             console.print(f"👉 [bold cyan]Enter the [yellow]ID[/yellow] of the player you want to {action}.[/bold cyan]")
         elif self.current_phase == "DAY_VOTING":
